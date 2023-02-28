@@ -1,0 +1,8 @@
+joaozinhogames\trucobolado\model\Baralho.class
+joaozinhogames\trucobolado\controller\NovoJogo.class
+joaozinhogames\trucobolado\controller\Sair.class
+joaozinhogames\trucobolado\model\Carta.class
+joaozinhogames\trucobolado\view\Tela.class
+joaozinhogames\trucobolado\model\Jogador.class
+joaozinhogames\trucobolado\model\Jogo.class
+joaozinhogames\trucobolado\model\Bot.class
